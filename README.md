@@ -1,0 +1,2 @@
+This is the data analysis and comparision of India's literacy rates vs India's human fertility rate from year 1880 - 2010.
+The inference is that the literacy rate impacts the fertility rate. As education spread in India, more people began considering family planning. By the early 2000s, there was a growing scientific awareness that having more births could lead to significant health problems for women. The data analysis regarding the same was done below.
